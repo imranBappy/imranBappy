@@ -54,11 +54,11 @@ Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/Learnw
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
 [youtube-url]: https://www.facebook.com/imranbappy.official
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
+[facebook-url]: https://www.facebook.com/imranbappy.official
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
+[instagram-url]: https://www.instagram.com/imranhossenbappy/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
+[linkedin-url]: https://www.linkedin.com/in/imranbappy/
 © 2022 GitHub, Inc.
 Terms
 Privacy
