@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.png)
+![Github Banner](https://media-exp1.licdn.com/dms/image/C5122AQG3H2D459gR7Q/feedshare-shrink_800/0/1575373782519?e=1644451200&v=beta&t=2gLCmM_gs0jxGXsERb_9wzio4ja4QCABn7rp9IAqj4g)
 
 ## Hi there my gorgeous friend <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif?raw=true" width="28px" alt="hi">
 
