@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React JS
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [![Facebook][facebook-shield]][https://www.facebook.com/imranbappy.official/]
+- 📫 How to reach me: ... [![Facebook][facebook-shield]][facebook-url]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
