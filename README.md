@@ -29,25 +29,7 @@ Here are some ideas to get you started:
 [![View on Facebook](https://media-exp1.licdn.com/dms/image/C5122AQG3H2D459gR7Q/feedshare-shrink_800/0/1575373782519?e=1644451200&v=beta&t=2gLCmM_gs0jxGXsERb_9wzio4ja4QCABn7rp9IAqj4g)
 
 <!-- TABLE OF CONTENTS -->
-## How to run
 
-Please follow the below instructions to run this project in your machine:
-
-1. Clone this repository
-   ```sh
-   git clone https://github.com/learnwithsumit/hack-programming-hero.git
-   ```
-2. Open index.html file with VS Code live server plugin.
-
-<!-- CONTACT -->
-
-## Contact
-
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
-
-Project Link: [https://github.com/learnwithsumit/hack-programming-hero](https://github.com/learnwithsumit/hack-programming-hero)
-
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
