@@ -2,7 +2,7 @@
 
 ## Hi there my gorgeous friend <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif?raw=true" width="28px" alt="hi">
 
-I'm Imnra, a Full Stack Web Application Developer from <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/bangladesh.png" width="18"/> Bangladesh
+I'm Imnra, a Full Stack Web Application Developer from <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/bangladesh.png" width="18"/> Bangladesh.
 
 :coffee: &emsp;Connect with me!
 
