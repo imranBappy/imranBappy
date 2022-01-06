@@ -29,14 +29,6 @@ Here are some ideas to get you started:
 [![View on Youtube](https://media-exp1.licdn.com/dms/image/C5122AQG3H2D459gR7Q/feedshare-shrink_800/0/1575373782519?e=1644451200&v=beta&t=2gLCmM_gs0jxGXsERb_9wzio4ja4QCABn7rp9IAqj4g)
 
 <!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [How to run](#how-to-run)
-- [Contact](#contact)
-
-<!-- HOW TO RUN -->
-
 ## How to run
 
 Please follow the below instructions to run this project in your machine:
@@ -60,10 +52,15 @@ Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/Learnw
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: 
+[youtube-url]: https://youtube.com/LearnwithSumit
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]:https://www.facebook.com/imranbappy.official/
+[facebook-url]: https://facebook.com/letslearnwithsumit
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://www.instagram.com/imranhossenbappy/
+[instagram-url]: https://instagram.com/learnwithsumit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/imranbappy/
+[linkedin-url]: https://linkedin.com/company/learnwithsumit
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
