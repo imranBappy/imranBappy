@@ -41,8 +41,4 @@ Here are some ideas to get you started:
 [instagram-url]: https://www.instagram.com/imranhossenbappy/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/imranbappy/
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
