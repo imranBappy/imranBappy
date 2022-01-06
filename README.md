@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/hack-programming-hero">Hack Programming Hero - DOM Project Tutorial for Beginners</a></h3>
+  <h3 align="center"><a href="https://www.facebook.com/imranbappy.official/"Imran Hossen Bappy</a></h3>
 
-Complete project tutorial showing different applications of Document Object Model (DOM) -
 
-[![View on Youtube](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)](http://www.youtube.com/watch?v=_WuDDnZMRiE)
+
+[![View on Youtube](https://media-exp1.licdn.com/dms/image/C5122AQG3H2D459gR7Q/feedshare-shrink_800/0/1575373782519?e=1644451200&v=beta&t=2gLCmM_gs0jxGXsERb_9wzio4ja4QCABn7rp9IAqj4g)
 
 <!-- TABLE OF CONTENTS -->
 
