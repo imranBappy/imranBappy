@@ -13,7 +13,7 @@ I'm Imnra, a Full Stack Web Application Developer from <img src="https://github.
 - 👯 I’m looking to collaborate on ... React JS
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [![Facebook][facebook-shield]][facebook-url]
+- 📫 How to reach me: ... [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imranbappy.official)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
