@@ -23,4 +23,4 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 
 
 ### My Resume
-  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+  <img src="https://img.icons8.com/material-sharp/24/000000/link--v1.png"/>
