@@ -25,3 +25,4 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 ### My Resume
   <img style="color:#fff" src="https://img.icons8.com/material-sharp/24/000000/link--v1.png"/>
   <a style="color:#fff" href="https://icons8.com/icon/85835/link">Link icon by Icons8</a>
+  <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-link-essentials-prettycons-flat-prettycons-1.png"/>
