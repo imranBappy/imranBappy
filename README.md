@@ -1,5 +1,3 @@
-![Github Banner](https://media-exp1.licdn.com/dms/image/C4E16AQGAx9AOPZ5WGA/profile-displaybackgroundimage-shrink_350_1400/0/1655484518117?e=1660780800&v=beta&t=qN3leZOA4zlCAtw_r3Dy-aLsTmJQ--RAEWzxmXC9QZA)
-
 ## Hi there my gorgeous friend <img src="https://github.com/learnwithsumit/learnwithsumit/blob/main/assets/hello.gif?raw=true" width="28px" alt="hi">
 
 I'm Imran, a Full Stack Web Application Developer from <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/bangladesh.png" width="18"/> Bangladesh.
