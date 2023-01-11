@@ -30,7 +30,7 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Imran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imranBappy&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
