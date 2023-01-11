@@ -25,5 +25,16 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact) 
 
 
+<br />
+
+---
+  ### :zap: GitHub Stats
+  <br/>
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+<br />
+
+---
+
+
 ### My Resume   <a style="color:#fff" href="./Imran Hossen-Full Stack Developer.pdf" download>  <img style="width:15px"  src="https://img.icons8.com/fluency/48/000000/downloads-folder--v2.png"/></a> <a style="color:#fff" href="https://docs.google.com/document/d/1rfLHgJmEQsTUQf3x78cCbbkuDt3u4FQ7dF21W_p4wGM/edit?usp=sharing" >  <img style="width:15px" src="https://img.icons8.com/emoji/48/000000/link-emoji.png"/></a>
 
