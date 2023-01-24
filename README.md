@@ -8,8 +8,7 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 
 
 
-//- 🔭 I’m currently working on ... CITY IT
-- 🌱 I’m currently learning ... Algorith
+- 🌱 I’m currently learning ... Algorithm
 - 👯 I’m looking to collaborate on ... React JS
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
