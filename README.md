@@ -2,7 +2,7 @@
 
 I'm Imran, a Full Stack Web Application Developer from <img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/bangladesh.png" width="18"/> Bangladesh.
 
-<img src="https://github.com/learnwithsumit/learnwithsumit/raw/main/assets/bangladesh.png" style="width:100%"/>
+<img src="https://raw.githubusercontent.com/imranBappy/imranBappy/main/imran-banner.png" style="width:100%"/>
 
 :coffee: &emsp;Connect with me!
 
