@@ -22,7 +22,7 @@ I'm Imran, a Full Stack Web Application Developer from <img src="https://github.
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranBappy&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
