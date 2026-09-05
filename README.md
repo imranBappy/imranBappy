@@ -1,94 +1,199 @@
-<div align="center">
-
 # Hi, I'm Imran Hossen 👋
 
-### Full-Stack AI Engineer · LLM Agents · RAG · React/Next.js · Django/FastAPI
+### Full-Stack TypeScript Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-imranbappy.netlify.app-0F3E8C?style=flat-square&logo=vercel&logoColor=white)](https://imranbappy.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imranbappy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranbappy)
-[![Email](https://img.shields.io/badge/Email-imranbappy.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranbappy.official@gmail.com)
-[![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-Open_to_Remote-22C55E?style=flat-square&logo=googlemaps&logoColor=white)](#)
+I build **web, mobile, and SaaS products** with a focus on clean architecture, real-world business problems, and production-ready systems.
 
-</div>
+I started my career mainly in frontend development with React, but over time I moved deeper into backend development, databases, APIs, authentication, real-time systems, and deployment.
+
+Currently, my main stack is **TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, and React Native**.
 
 ---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-I build **production-grade AI applications** — autonomous agents, RAG systems, and LLM-powered products — on top of a solid full-stack foundation (React/Next.js + Python). I specialize in taking AI products from zero to deployed, fast.
-
-- 🤖 **AI Agents** — multi-step reasoning, tool/function calling, human-in-the-loop handoffs
-- 🧠 **RAG Pipelines** — vector search, document retrieval, context-aware LLM responses
-- 💬 **LLM Integrations** — OpenAI, Claude APIs, LangChain, LangGraph, streaming
-- 🗃️ **Memory Systems** — short-term session memory + long-term persistent user context
-- 📱 **Full-Stack Apps** — React/Next.js frontends, Django/FastAPI/Node backends, React Native mobile
+- 💻 Full-Stack Software Engineer with **3.5+ years of experience**
+- 🌐 Building web applications with **React & Next.js**
+- ⚙️ Building APIs and backend systems with **Node.js, Express.js & NestJS**
+- 📱 Building cross-platform mobile apps with **React Native & Expo**
+- 🗄️ Working with **PostgreSQL, MongoDB & MySQL**
+- 🔐 Experience with authentication, RBAC and multi-tenant systems
+- ⚡ Interested in real-time applications, SaaS and scalable systems
+- 🛒 Built and worked on e-commerce, hospitality, crowdfunding and Web3 products
+- 🌍 Open to **international remote opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / LLM**  
-`OpenAI API` `Claude API` `LangChain` `LangGraph` `RAG` `Vector DB` `Prompt Engineering` `MCP`
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+</p>
 
-**Backend**  
-`Python` `FastAPI` `Django` `Node.js` `NestJS` `Express` `GraphQL` `REST` `WebSockets`
+**TypeScript · JavaScript · React · Next.js · Tailwind CSS · Redux Toolkit · Zustand · React Query · Apollo Client**
 
-**Frontend**  
-`React.js` `Next.js` `TypeScript` `Zustand` `Redux Toolkit` `TanStack Query` `Apollo Client` `Tailwind CSS`
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-**Mobile**  
-`React Native` `Expo` `ML Kit` `Push Notifications` `React Navigation`
+**Node.js · Express.js · NestJS · REST API · GraphQL · WebSockets**
 
-**Data & DevOps**  
-`PostgreSQL` `MongoDB` `ChromaDB` `Supabase` `Firebase` `Docker` `AWS` `CI/CD` `GitHub Actions`
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
----
+**React Native · Expo · React Navigation**
 
-## 🔥 Featured Projects
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
 
-### 🤖 AI Social Media Manager & Booking Agent
-> Autonomous agent that manages client conversations on Facebook/Instagram, qualifies leads with LLMs, and auto-books meetings synced to calendar availability.
+**PostgreSQL · MongoDB · MySQL**
 
-- Multi-step agent with tool calling, conversation memory, and sales team handoff
-- Built with OpenAI/Claude APIs + LangChain agent architecture
-- Human-in-the-loop override system for quality control
+### Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux,vscode" />
+</p>
 
----
-
-### 💬 AI Marriage Counseling Agent
-> Empathetic multi-turn AI counselor with safety-aware prompting and persistent session memory.
-
-- LangChain-based agent with structured reasoning and guided decision support
-- Long-term memory system that retains user context while enforcing privacy boundaries
-- Thoughtfully designed prompt engineering for sensitive, high-stakes conversations
-
----
-
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| Apr 2025 – Present | Software Engineer (AI/Full-Stack) | Edutechs, Dhaka |
-| Aug 2023 – Apr 2025 | Software Engineer (React + React Native) | W3kernel, Remote |
+**Git · GitHub · Docker · AWS · Nginx · Linux · CI/CD · Postman**
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Build
 
-<div align="center">
+I enjoy working on products where engineering decisions matter beyond just making the UI work.
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranBappy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranBappy&layout=compact&theme=tokyonight&hide_border=true)
+Some areas I've worked in:
 
-</div>
+- 🛒 **E-commerce & SaaS**
+- 🏢 **Multi-Tenant Applications**
+- 📱 **Mobile Applications**
+- ⚡ **Real-Time Applications**
+- 🔗 **REST & GraphQL APIs**
+- 🔐 **Authentication & Role-Based Access Control**
+- 💳 **Payment Integrations**
+- 🚚 **Courier & Third-Party Integrations**
+- 📊 **Analytics & Data-Driven Applications**
+- ⛓️ **Web3 & Blockchain Applications**
 
 ---
 
-## 📫 Let's Work Together
+## ⭐ Featured Projects
 
-I'm open to **remote Full-Stack AI Engineer roles** and fast-paced startup environments.  
-If you're building an AI product and need someone who can handle both the LLM architecture and the full-stack implementation — let's talk.
+### B2Roll — Multi-Tenant E-Commerce SaaS
 
-[![Email Me](https://img.shields.io/badge/Email_Me-imranbappy.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranbappy.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranbappy)
+A white-label e-commerce SaaS platform that allows businesses to launch and manage their own branded online stores.
+
+**Highlights:**
+- Multi-tenant architecture
+- Schema-per-tenant PostgreSQL architecture
+- Storefront & merchant dashboard
+- Product, inventory and order management
+- Authentication & RBAC
+- Payment and courier integrations
+- Custom domains & SSL
+- Caching and performance optimization
+
+**Stack:** Next.js · React · TypeScript · NestJS · GraphQL · PostgreSQL
+
+---
+
+### Polysignals — Web3 Analytics Platform
+
+A Web3 analytics platform that turns blockchain activity, market signals and wallet data into actionable insights.
+
+**Highlights:**
+- Real-time blockchain data
+- WebSocket-based live updates
+- Wallet and smart contract analytics
+- Web and mobile applications
+- High-volume historical data processing
+
+**Stack:** Next.js · TypeScript · React Native · Node.js · Express.js · PostgreSQL · Polygon
+
+---
+
+### Gustav — Hospitality Management Platform
+
+A hospitality platform connecting hotel guests, staff and hotel services through a digital experience.
+
+**Focus areas:**
+- Guest experience
+- Hotel service management
+- Staff workflows
+- Real-time communication
+- Hospitality operations
+
+---
+
+### EkSho — Crowdfunding Platform
+
+A Bangladesh-focused crowdfunding platform connecting people who need financial support with donors.
+
+**Focus areas:**
+- Campaign creation and management
+- Fundraising
+- Donations
+- Campaign discovery
+- Payment workflows
+- User and campaign management
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imranBappy&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranBappy&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imranBappy&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Improving
+
+I'm continuously improving my skills in:
+
+- System Design
+- Scalable Backend Architecture
+- TypeScript
+- PostgreSQL
+- Docker & Cloud Infrastructure
+- Testing & CI/CD
+- Performance Optimization
+- Distributed & Real-Time Systems
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing **software engineering, SaaS products, startups, system architecture, and interesting technical problems**.
+
+<p>
+  <a href="mailto:imranbappy.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imranbappy.official%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/imranBappy">
+    <img src="https://img.shields.io/badge/GitHub-imranBappy-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/imranbappy">
+    <img src="https://img.shields.io/badge/LinkedIn-Imran%20Hossen-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 💡 "Build things that solve real problems."
+
+Thanks for stopping by! ⭐
